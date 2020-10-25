@@ -1,0 +1,7 @@
+{
+  "name": "example-unsafe-jwt",
+  "version": "1.0.0",
+  "repository": "https://github.com/kzmake/example-unsafe-jwt.git",
+  "author": "kzmake <kzmake.i3a@gmail.com>",
+  "license": "MIT"
+}
